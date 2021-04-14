@@ -7,6 +7,9 @@
     
 }
 
+body {
+    background: linear-gradient(rgb(65, 168, 236), rgb(125, 243, 125));
+}
 
 @font-face {
     font-family: zoofont;
